@@ -1,0 +1,7 @@
+.idea
+*.iml
+out
+gen
+/venv
+.env
+/drfsite/db.sqlite3
